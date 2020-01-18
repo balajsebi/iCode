@@ -117,7 +117,9 @@ CUSTOM ELEMENTS
 .flex-control-nav, .flex-direction-nav{
 	display: none;
 }
-
+.flexslider img{
+	object-fit: cover;
+}
 
 /*------
 RESPONSIVE CSS
