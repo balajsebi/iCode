@@ -118,7 +118,7 @@ CUSTOM ELEMENTS
 	display: none;
 }
 .flexslider img{
-	image-rendering: pixelated;
+	object-fit: cover;
 }
 
 /*------
