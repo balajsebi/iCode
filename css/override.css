@@ -1,0 +1,163 @@
+/*------
+GENERAL ELEMENTS
+------*/
+html, body {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 16px;
+   line-height: 26px;
+   color: #646363;
+}
+
+body {
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------
+TOP PART
+------*/
+
+
+
+/*------
+FOOTER
+------*/
+
+
+/*------
+MAIN NAV
+------*/
+
+#main_nav {
+   
+}
+ul#nav > li{
+
+}
+ul#nav > li > a, ul#nav_mobile > li > a {
+ 
+}
+ul#nav > li:nth-child(5){
+
+}
+ul#nav > li.active-page a, ul#nav > li:hover a{
+ 
+}
+ul#nav > li:last-child:hover a{
+
+}
+ul#nav > li:last-child a:hover{
+
+}
+
+.inner-wrapper ul#nav > li > a,.inner-wrapper ul#nav_mobile > li > a, .inner-wrapper ul#nav > li:last-child:hover a {
+  color: #fff;
+}
+.inner-wrapper ul#nav > li.active-page a, .inner-wrapper ul#nav > li:hover a,  .inner-wrapper ul#nav > li:last-child a:hover{
+color: #292929;
+}
+
+ul#nav > li:last-child > a, ul#nav_mobile > li:last-child > a{
+
+}
+ul#nav > li, ul#nav_mobile > li {
+	
+}
+ul#nav > li ul, ul#nav_mobile > li ul{
+
+}
+
+ul#nav > li > a:hover, ul#nav_mobile > li > a:hover {
+
+}
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header, .container-fluid{
+  padding: 0;
+}
+
+
+ul#nav > li:last-child, ul#nav_mobile > li:last-child, .navbar-inverse{
+  padding-right: 0;
+}
+
+
+
+
+
+
+
+
+
+/*------
+CUSTOM ELEMENTS
+------*/
+.custom-container{
+	width: 1440px;
+	max-width: 100%;
+	margin: 0 auto;
+}
+.flexslider {
+    margin: 0 !important;
+    border: none !important;
+}
+.flex-control-nav, .flex-direction-nav{
+	display: none;
+}
+
+
+/*------
+RESPONSIVE CSS
+------ */
+
+@media (max-width: 1440px){
+
+}
+@media (max-width: 1280px){
+
+}
+@media(max-width: 1180px){
+ 
+}
+@media (max-width: 1024px){
+  
+}
+@media (max-width: 991px){
+ 
+}
+@media (max-width: 980px){
+  
+  
+}
+@media (max-width: 860px){
+  
+
+}
+@media (max-width: 768px){ 
+
+
+}
+@media (max-width: 767px){
+  
+
+}
+@media (max-width: 640px){
+
+}
+
+@media (max-width: 480px){
+ 
+ 
+}
+@media (max-width: 320px){
+ 
+}

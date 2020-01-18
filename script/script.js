@@ -2,8 +2,8 @@
 
 
 $(window).on('load', function() {
-
-    $("#header").load("header.html"); 
+	$('.flexslider').flexslider();
+     $("#header").load("header.html"); 
  	 $("#footer").load("footer.html"); 
 
 	setTimeout(function(){
